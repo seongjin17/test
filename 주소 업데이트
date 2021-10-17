@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-17T06:02:45.813Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36 Edg/94.0.992.50" etag="046SDDsWSeg-Y3ncKzxB" version="15.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-17T06:32:06.494Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36 Edg/94.0.992.50" etag="h-0HXZoRYcHPrW_ZX05F" version="15.5.4" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="1422" dy="794" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="981" dy="548" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -42,11 +42,12 @@
         </mxCell>
         <mxCell id="aQzMrM8jB6mdcuK0ls1A-14" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;edgeStyle=orthogonalEdgeStyle;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="538" y="234" as="sourcePoint" />
-            <mxPoint x="538" y="300" as="targetPoint" />
+            <mxPoint x="537.03" y="237" as="sourcePoint" />
+            <mxPoint x="537" y="295" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="551" y="234" />
-              <mxPoint x="551" y="300" />
+              <mxPoint x="550" y="237" />
+              <mxPoint x="550" y="295" />
+              <mxPoint x="537" y="295" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -56,31 +57,65 @@
         <mxCell id="aQzMrM8jB6mdcuK0ls1A-16" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="530" y="303" as="sourcePoint" />
-            <mxPoint x="320" y="303" as="targetPoint" />
+            <mxPoint x="685" y="303" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aQzMrM8jB6mdcuK0ls1A-17" value="최신&amp;nbsp; url을&amp;nbsp; 전송한다." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="425" y="297" width="106" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="aQzMrM8jB6mdcuK0ls1A-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="307.5" y="309" width="11" height="94" as="geometry" />
+          <mxGeometry x="526" y="297" width="106" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aQzMrM8jB6mdcuK0ls1A-20" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;edgeStyle=orthogonalEdgeStyle;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="301" y="309" as="sourcePoint" />
-            <mxPoint x="309" y="411" as="targetPoint" />
+            <mxPoint x="304.94000000000005" y="355" as="sourcePoint" />
+            <mxPoint x="305" y="395" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="278" y="309" />
-              <mxPoint x="278" y="411" />
-              <mxPoint x="301" y="411" />
+              <mxPoint x="290" y="355" />
+              <mxPoint x="290" y="395" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aQzMrM8jB6mdcuK0ls1A-21" value="서버에 저장된 데이터와 비교한다.&lt;br&gt;&lt;br&gt;최신 url데이터로&lt;br&gt;&amp;nbsp;업데이트한다." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="188" y="309" width="90" height="74" as="geometry" />
+        <mxCell id="aQzMrM8jB6mdcuK0ls1A-21" value="최신 url데이터로&lt;br&gt;&amp;nbsp;업데이트한다." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="207" y="355" width="90" height="35" as="geometry" />
         </mxCell>
         <mxCell id="aQzMrM8jB6mdcuK0ls1A-23" value="주소 업데이트" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="211" y="139" width="68" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_IHTnZ2RXs9m73PMDzrd-1" value="서버" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="655" y="183" width="68" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="_IHTnZ2RXs9m73PMDzrd-2" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="_IHTnZ2RXs9m73PMDzrd-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="405" y="336" as="sourcePoint" />
+            <mxPoint x="689" y="472" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_IHTnZ2RXs9m73PMDzrd-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="683.5" y="306" width="11" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="_IHTnZ2RXs9m73PMDzrd-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="687" y="352" as="sourcePoint" />
+            <mxPoint x="317" y="352" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_IHTnZ2RXs9m73PMDzrd-6" value="&lt;span style=&quot;font-size: 10px&quot;&gt;서버에 저장된 데이터와 비교한다.&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="716" y="306" width="86" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_IHTnZ2RXs9m73PMDzrd-7" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="697" y="309.02" as="sourcePoint" />
+            <mxPoint x="697" y="342.02" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="715" y="309.02" />
+              <mxPoint x="715" y="342.02" />
+              <mxPoint x="697" y="342.02" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_IHTnZ2RXs9m73PMDzrd-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="307" y="355" width="12" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="_IHTnZ2RXs9m73PMDzrd-12" value="최신&amp;nbsp; url을&amp;nbsp; 전송한다." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="588.5" y="345" width="106" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
