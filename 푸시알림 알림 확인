@@ -1,1 +1,88 @@
-<mxfile host="app.diagrams.net" modified="2021-11-02T13:15:33.738Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" version="15.6.5" etag="Hpn8w95DyMXQqEoZDudg" type="github"><diagram id="yfzszt-9sBuMidnV5gne">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-02T13:38:01.208Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="2AYiY2zlm2zpII8CQBt3" version="15.6.5" type="github">
+  <diagram id="yfzszt-9sBuMidnV5gne" name="Page-1">
+    <mxGraphModel dx="1185" dy="588" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="iyGEKSTzO8eyMQMnWm4S-1" value="사용자" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="130" y="160" width="100" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="iyGEKSTzO8eyMQMnWm4S-2" value="원시그널" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="488" y="160" width="100" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="iyGEKSTzO8eyMQMnWm4S-3" value="앱" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="302" y="160" width="100" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="iyGEKSTzO8eyMQMnWm4S-4" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontColor=default;strokeColor=default;labelBackgroundColor=default;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;" edge="1" parent="1" source="iyGEKSTzO8eyMQMnWm4S-11" target="iyGEKSTzO8eyMQMnWm4S-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="465" as="sourcePoint" />
+            <mxPoint x="179" y="224" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iyGEKSTzO8eyMQMnWm4S-5" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontColor=default;strokeColor=default;labelBackgroundColor=default;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=default;startArrow=none;" edge="1" parent="1" source="iyGEKSTzO8eyMQMnWm4S-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="538" y="470" as="sourcePoint" />
+            <mxPoint x="537.5799999999999" y="196.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iyGEKSTzO8eyMQMnWm4S-6" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontColor=default;strokeColor=default;labelBackgroundColor=default;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=default;startArrow=none;" edge="1" parent="1" source="iyGEKSTzO8eyMQMnWm4S-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="352" y="462" as="sourcePoint" />
+            <mxPoint x="351.58000000000004" y="198.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iyGEKSTzO8eyMQMnWm4S-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="344" y="299" width="16" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="iyGEKSTzO8eyMQMnWm4S-14" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontColor=default;strokeColor=default;labelBackgroundColor=default;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=default;" edge="1" parent="1" target="iyGEKSTzO8eyMQMnWm4S-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="352" y="462" as="sourcePoint" />
+            <mxPoint x="351.5799999999999" y="198.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iyGEKSTzO8eyMQMnWm4S-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="530" y="255" width="16" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="iyGEKSTzO8eyMQMnWm4S-15" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontColor=default;strokeColor=default;labelBackgroundColor=default;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=default;" edge="1" parent="1" target="iyGEKSTzO8eyMQMnWm4S-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="538" y="470" as="sourcePoint" />
+            <mxPoint x="537.5800000000002" y="196.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iyGEKSTzO8eyMQMnWm4S-16" value="" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=default;fontColor=default;strokeColor=default;fillColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="528" y="293" as="sourcePoint" />
+            <mxPoint x="355" y="293" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iyGEKSTzO8eyMQMnWm4S-22" value="새로운 공지사항 수신" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="552" y="255" width="96" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iyGEKSTzO8eyMQMnWm4S-23" value="공지사항 알림 메세지 전송" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="451" y="293" width="86" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iyGEKSTzO8eyMQMnWm4S-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="172" y="340" width="16" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="iyGEKSTzO8eyMQMnWm4S-24" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontColor=default;strokeColor=default;labelBackgroundColor=default;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="iyGEKSTzO8eyMQMnWm4S-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="465" as="sourcePoint" />
+            <mxPoint x="180" y="198.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iyGEKSTzO8eyMQMnWm4S-29" value="알림 확인" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="61" y="348" width="133" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iyGEKSTzO8eyMQMnWm4S-30" value="휴대폰 상단바&lt;br&gt;알림 메세지 디스플레이" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="220" y="337" width="133" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iyGEKSTzO8eyMQMnWm4S-31" value="" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=default;fontColor=default;strokeColor=default;fillColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="347" y="337.0000000000001" as="sourcePoint" />
+            <mxPoint x="181" y="337.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
