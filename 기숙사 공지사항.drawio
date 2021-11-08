@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-08T12:34:27.046Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 Edg/95.0.1020.44" etag="ODcBaOhL9yKYyCJlwz8_" version="15.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-08T12:34:55.327Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 Edg/95.0.1020.44" etag="ldHm5bi-kcvWXOFYG8RU" version="15.7.0" type="github">
   <diagram id="il1ou5z5HlYEB6SpMAm3" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="PJMupQD3atlqZfMeYNP1-8" value="공지사항 업로드&lt;br&gt;감지기" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="377" y="177" width="111" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PJMupQD3atlqZfMeYNP1-9" value="학과 홈페이지" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="PJMupQD3atlqZfMeYNP1-9" value="기숙사 홈페이지" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="237" y="177" width="111" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PJMupQD3atlqZfMeYNP1-11" value="" style="endArrow=none;dashed=1;html=1;rounded=0;startArrow=none;" parent="1" source="PJMupQD3atlqZfMeYNP1-28" edge="1">
