@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-08T13:47:24.726Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 Edg/95.0.1020.44" etag="FDu-G7qS3Y_EZFX-MF5Z" version="15.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-08T14:34:55.992Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 Edg/95.0.1020.44" etag="4s_Za99goC4cRsdVvGBb" version="15.7.0" type="github">
   <diagram id="il1ou5z5HlYEB6SpMAm3" name="Page-1">
-    <mxGraphModel dx="981" dy="548" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1102" dy="614" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -165,22 +165,22 @@
         <mxCell id="PJMupQD3atlqZfMeYNP1-46" value="키워드, 새 키워드&lt;br&gt;공지사항 주소 데이터" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="496" y="428" width="114" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EFMb9gsq3_LXYbWF96me-1" value="타이머" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EFMb9gsq3_LXYbWF96me-1" value="타이머" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="28" y="178" width="111" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="EFMb9gsq3_LXYbWF96me-2" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="EFMb9gsq3_LXYbWF96me-1">
+        <mxCell id="EFMb9gsq3_LXYbWF96me-2" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="EFMb9gsq3_LXYbWF96me-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="84" y="547" as="sourcePoint" />
             <mxPoint x="401" y="376" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EFMb9gsq3_LXYbWF96me-3" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="EFMb9gsq3_LXYbWF96me-3" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="87" y="239.9999999999999" as="sourcePoint" />
             <mxPoint x="220" y="239.9999999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EFMb9gsq3_LXYbWF96me-4" value="크롤러 실행" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="EFMb9gsq3_LXYbWF96me-4" value="크롤러 실행" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="83" y="239" width="85" height="30" as="geometry" />
         </mxCell>
       </root>
